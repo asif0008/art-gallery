@@ -1,0 +1,151 @@
+
+
+@media screen and (max-width: 1170px) {
+    .hero-heading {
+        font-size: 6rem;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    .hero-heading {
+        font-size: 5.5rem;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .bg-image {
+        height: 80vh;
+    }
+
+    .painting-text {
+        border: none;
+    }
+
+    .hero-heading {
+        font-size: 5rem;
+    }
+
+    .insta-images {
+        max-width: 50%;
+    }
+
+    .blog-images {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 870px) {
+    .bg-image {
+        height: 70vh;
+    }
+
+    .hero-heading {
+        font-size: 4.5rem;
+    }
+
+    .heading-text {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .blog-images {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .bg-image {
+        height: 60vh;
+    }
+
+    .hero-heading {
+        font-size: 3.5rem;
+    }
+
+    .insta-images {
+        max-width: 80%;
+    }
+
+    .blog-images {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .bg-image {
+        height: 55vh;
+    }
+
+    .hero-heading {
+        font-size: 5rem;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .bg-image {
+        
+        height: 50vh;
+    }
+
+    .hero-heading {
+        font-size: 4.5rem;
+    }
+
+    .feature-img {
+        width: 400px;
+    }
+
+    .heading-text {
+        font-size: 42px;
+    }
+
+    .insta-images {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .bg-image {
+        height: 35vh;
+    }
+
+    .hero-heading {
+        font-size: 3rem;
+    }
+
+    .feature-img {
+        width: 300px;
+    }
+
+    .about-img {
+        width: 250px;
+    }
+
+    .service-cards {
+        min-width: 300px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .bg-image {
+        height: 30vh;
+    }
+
+    .hero-heading {
+        font-size: 2.5rem;
+    }
+
+    .feature-img {
+        width: 250px;
+    }
+
+    .service-cards {
+        min-width: 260px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .service-cards {
+        min-width: 240px;
+    }
+}
