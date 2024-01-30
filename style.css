@@ -38,7 +38,7 @@ html {
 }
 
 .bg-image {
-    background-image: url('/images/Banner-photo.png');
+    background-image: url('images/Banner-photo.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
